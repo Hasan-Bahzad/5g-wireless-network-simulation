@@ -1,8 +1,3 @@
-# 5g-wireless-network-simulation.
-
-5G wireless network simulation and RF planning project using OMNeT++ for urban and suburban deployment scenarios.
----
-
 # Overview
 
 Designed and simulated a scalable 5G wireless network infrastructure for urban and suburban environments using OMNeT++. The project focused on RF planning, network topology design, QoS optimization, and wireless performance evaluation.
@@ -31,6 +26,16 @@ This project was developed as part of a university group project focused on 5G w
 - Traffic modeling with different load conditions
 
 # Screenshots
+
+## Macro Cell Topology
+OMNeT++ simulation topology showing macro-cell deployment and large-area 5G coverage planning.
+
+![Macro Topology](screenshots/macro-topology.png)
+
+## Micro Cell Topology
+Micro-cell deployment scenario designed for dense urban environments with improved capacity and reduced interference.
+
+![Micro Topology](screenshots/micro-topology.png)
 
 # Project Structure
 ```
