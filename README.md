@@ -26,3 +26,11 @@ Designed and simulated a scalable 5G wireless network infrastructure for urban a
 - Traffic modeling with different load conditions
 
 # Screenshots
+
+# Project Structure
+```
+docs/          -> Project documentation
+simulations/   -> OMNeT++ simulation scenarios
+screenshots/   -> Network topology and result images
+configs/       -> Configuration files
+```
