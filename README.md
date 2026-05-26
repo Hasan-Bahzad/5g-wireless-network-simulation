@@ -1,5 +1,5 @@
 # Overview & Project Information
-Designed and simulated a scalable 5G wireless network infrastructure for urban and suburban environments using OMNeT++. The project focused on RF planning, network topology design, QoS optimization, and wireless performance evaluation. This project was developed as part of a university group project focused on 5G wireless network design and simulation. My contribution included network topology design, RF planning, simulation configuration, and performance analysis.
+Designed and simulated a scalable 5G wireless network infrastructure for urban and suburban environments using OMNeT++. The project focused on RF planning, network topology design, QoS optimization, and wireless performance evaluation. This project was developed as part of a university group project focused on 5G wireless network design and simulation. My contribution included simulation configuration and performance analysis.
 
 
 # Objectives:
