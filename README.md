@@ -10,7 +10,7 @@ Designed and simulated a scalable 5G wireless network infrastructure for urban a
 - Design 5G network topologies for different propagation environments
 - Simulate urban and suburban deployment scenarios
 - Evaluate QoS and network performance
-- Analyze throughput, latency, packet loss, and coverage efficiency
+- Analyze throughput, latency and packet loss
 
 # Technologies Used:
 - OMNeT++
