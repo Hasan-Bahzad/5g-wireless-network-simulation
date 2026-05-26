@@ -22,6 +22,18 @@ This project was developed as part of a university group project focused on 5G w
 - gNodeB placement and cell coverage planning
 - Traffic modeling with different load conditions
 
+# Simulation Scenarios
+
+The project implemented and evaluated two 5G deployment scenarios within the OMNeT++ simulation environment:
+
+- **Urban Scenario:**  
+  Dense propagation environment utilizing micro-cell deployment to improve network capacity, QoS performance, and user coverage in high-traffic areas.
+
+- **Suburban Scenario:**  
+  Large-area macro-cell deployment designed to provide scalable wireless coverage with optimized infrastructure distribution and reduced propagation challenges.
+
+Both scenarios included traffic modeling using VoIP, Constant Bit Rate (CBR), and Video-on-Demand (VoD) services under different load conditions to evaluate throughput, latency, and packet loss performance.
+
 # Screenshots
 The following screenshots demonstrate the implemented 5G network topologies and deployment scenarios within the OMNeT++ simulation environment.
 
