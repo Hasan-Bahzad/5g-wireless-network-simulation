@@ -3,6 +3,12 @@ Designed and simulated a scalable 5G wireless network infrastructure for urban a
 
 This project was developed as part of a university group project focused on 5G wireless network design and simulation. My contribution included simulation configuration and performance analysis.
 
+## Authors
+- Hasan Bahzad (Me)
+- Salman Mohamed
+- Husain Mohamedi
+- Husain Ali
+
 # Objectives
 - Design 5G network topologies for different propagation environments
 - Simulate urban and suburban deployment scenarios
