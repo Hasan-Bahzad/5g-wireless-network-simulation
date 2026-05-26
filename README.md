@@ -26,12 +26,12 @@ The following screenshots demonstrate the implemented 5G network topologies and 
 ## Macro Cell Topology
 Large-area macro-cell topology designed to improve wireless coverage and scalability in suburban environments.
 
-![Macro Topology](screenshots/macro-topology.png)
+![Macro Topology](screenshots/topologies/macro-topology.png)
 
 ## Micro Cell Topology
 Simulation topology demonstrating dense urban 5G deployment using micro cells for higher capacity and QoS optimization.
 
-![Micro Topology](screenshots/micro-topology.png)
+![Micro Topology](screenshots/topologies/micro-topology.png)
 
 # Project Structure
 ```
