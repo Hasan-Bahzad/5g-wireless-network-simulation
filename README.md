@@ -24,12 +24,12 @@ Designed and simulated a scalable 5G wireless network infrastructure for urban a
 # Screenshots
 
 ## Macro Cell Topology
-OMNeT++ simulation topology showing macro-cell deployment and large-area 5G coverage planning.
+Large-area macro-cell topology designed to improve wireless coverage and scalability in suburban environments.
 
 ![Macro Topology](screenshots/macro-topology.png)
 
 ## Micro Cell Topology
-Micro-cell deployment scenario designed for dense urban environments with improved capacity and reduced interference.
+Simulation topology demonstrating dense urban 5G deployment using micro cells for higher capacity and QoS optimization.
 
 ![Micro Topology](screenshots/micro-topology.png)
 
