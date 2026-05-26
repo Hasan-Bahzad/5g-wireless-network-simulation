@@ -38,7 +38,6 @@ Simulation topology demonstrating dense urban 5G deployment using micro cells fo
 # Project Structure
 ```
 docs/          -> Project documentation
-simulations/   -> OMNeT++ simulation scenarios
 screenshots/   -> Network topology and result images
 configs/       -> Configuration files
 ```
