@@ -3,13 +3,13 @@ Designed and simulated a scalable 5G wireless network infrastructure for urban a
 
 This project was developed as part of a university group project focused on 5G wireless network design and simulation. My contribution included simulation configuration and performance analysis.
 
-# Objectives:
+# Objectives
 - Design 5G network topologies for different propagation environments
 - Simulate urban and suburban deployment scenarios
 - Evaluate QoS and network performance
 - Analyze throughput, latency and packet loss
 
-# Technologies Used:
+# Technologies Used
 - OMNeT++
 - 5G Networking
 - RF Planning
@@ -17,7 +17,7 @@ This project was developed as part of a university group project focused on 5G w
 - QoS Analysis
 - VoIP / CBR / VoD Traffic Simulation
 
-# Features:
+# Features
 - Urban and suburban 5G deployment simulations
 - gNodeB placement and cell coverage planning
 - Traffic modeling with different load conditions
