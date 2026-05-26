@@ -1,6 +1,5 @@
 # 5g-wireless-network-simulation
-Scalable 5G wireless network simulation and RF planning project using OMNeT++.
-
+5G wireless network simulation and RF planning project using OMNeT++ for urban and suburban deployment scenarios.
 ---
 
 # Overview
