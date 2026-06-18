@@ -55,7 +55,7 @@ Simulation topology demonstrating dense urban 5G deployment using micro cells fo
 
 # Project Structure
 ```
+configs/       -> Configuration files
 docs/          -> Project documentation
 screenshots/   -> Network topology and result images
-configs/       -> Configuration files
 ```
